@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>My Flightradar24 Profile</title>
+</head>
+<body>
+    <h1>Check out my Flightradar24 Profile</h1>
+    <a href="https://my.flightradar24.com/Robotmonk" target="_blank" rel="noopener noreferrer">
+        <img src="https://banners-my.flightradar24.com/Robotmonk.png" alt="My Flightdiary.net profile" />
+    </a>
+</body>
+</html>
